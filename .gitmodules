@@ -1,0 +1,3 @@
+[submodule "sona"]
+	path = sona
+	url = git@github.com:lipu-linku/sona.git
