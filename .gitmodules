@@ -1,3 +1,6 @@
 [submodule "sona"]
 	path = sona
 	url = git@github.com:lipu-linku/sona.git
+[submodule "bible-dataset/lipu-sewi"]
+	path = bible-dataset/lipu-sewi
+	url = git@github.com:PaulieGlot/lipu-sewi.git
