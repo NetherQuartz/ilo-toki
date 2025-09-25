@@ -2,3 +2,5 @@ datasets
 polars
 ipykernel
 ipywidgets
+beautifulsoup4
+requests
