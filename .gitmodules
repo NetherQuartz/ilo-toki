@@ -4,3 +4,6 @@
 [submodule "bible-dataset/lipu-sewi"]
 	path = bible-dataset/lipu-sewi
 	url = git@github.com:PaulieGlot/lipu-sewi.git
+[submodule "poki-lapo/poki"]
+	path = poki-lapo/poki
+	url = git@github.com:kulupu-lapo/poki.git

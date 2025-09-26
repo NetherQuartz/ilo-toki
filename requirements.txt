@@ -4,3 +4,4 @@ ipykernel
 ipywidgets
 beautifulsoup4
 requests
+markdown
